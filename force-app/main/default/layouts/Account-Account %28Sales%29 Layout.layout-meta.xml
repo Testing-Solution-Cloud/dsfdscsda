@@ -49,6 +49,10 @@
                 <behavior>Edit</behavior>
                 <field>ddscs__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>wdesfsfdsd__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
