@@ -1,0 +1,4 @@
+projectPath: force-app/main/omnistudio
+queries:
+  - VlocityDataPackType: OmniScript
+    query: Select id from OmniProcess where name IN ('sfiEnergyConsoleFSScheduleAppointment','VPL-EnegryAddAccount') and isActive = True
